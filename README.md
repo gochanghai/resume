@@ -1,12 +1,12 @@
 # 简历
 
-#### 源代码：   [github](https://github.com/liupeng328/resume)  | [开源中国](https://gitee.com/lovepeng/resume)
+#### 源代码：   [github](https://github.com/gochanghai/resume)  | [开源中国](https://gitee.com/gochanghai/resume)
 
 # 联系方式
 
-- 手机/微信/钉钉： 13144800366
+- 手机/微信/钉钉： 14777077718
 - 邮箱：gochanghai@aliyun.com
-- QQ: 1029538990
+- QQ: 942059473
 
 # 个人信息
 
@@ -67,6 +67,7 @@ Mybatis（Mybatis-plus），druid，angular5，Ant Design (ng-zorro)，AntV(G2/G
 # 技能清单
 
 - 主技能：java 熟练掌握
+- 次技能：golang 基础级
 - 常用后端框架：spring/springboot/mybatis/mybatis-plues/jfinal 熟练掌握
 - 数据库：mysql/oracle/postgres 熟练掌握
 - nosql: redis/mongodb/hbase 熟练使用
@@ -77,7 +78,7 @@ Mybatis（Mybatis-plus），druid，angular5，Ant Design (ng-zorro)，AntV(G2/G
 - 常用版本控制工具：svn/git 熟练掌握
 - 容器技术: docker 熟练使用
 - 常用项目管理工具： maven 熟练掌握
-- 操作系统： windows/mac/centos/rehl 熟练使用
+- 操作系统： windows/centos/rehl 熟练使用
 
 
 # 致谢
