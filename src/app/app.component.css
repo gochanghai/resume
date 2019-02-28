@@ -1,0 +1,83 @@
+.banner {
+  width: 100%;
+  height: 35px;
+  background-color: rgba(215, 239, 233, 0.14);
+  border: 1px #992493 solid;
+  border-radius: 15px 15px 0px 0px;
+  padding: 5px 30px;
+  text-align: center;
+  font-weight: 700;
+  font-size: 1.1em;
+  color: #992493;
+}
+
+.btn {
+  display: inline;
+  float: left;
+  width: 100px;
+  height: 30px;
+}
+
+.btn i {
+  margin-left: 10px;
+  color: #000000;
+  border: 1px #ffffff solid;
+  border-radius: 10px;
+}
+
+pre {
+  width: 100%;
+  color: #000000;
+  font-size: 2.2em;
+  font-weight: 700;
+  /*自动换行*/
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
+.div1 {
+  width: 100%;
+  height: 100%;
+  background-color: #ffffff;
+  transition: 1s;
+}
+
+.pre1 {
+  /*字体样式*/
+  color: #46ceff;
+  font-size: 1.2em;
+  font-weight: 600;
+  /*命令行样式*/
+  transition: 0.6s;
+  background-color: rgba(0, 0, 0, 0.8);
+  border: 1px #992493 solid;
+  box-shadow: #996595;
+  padding-bottom: 20px;
+  /*height: 130px;*/
+  /*自动换号*/
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
+.prediv{
+  margin-top: 30px;
+  transition: 1s;
+}
+
+.div2 {
+  color: rgba(255, 255, 255, 0.8);
+  font-weight: 400;
+  transition: 1s;
+}
+
+.div3 {
+  /*滚动条样式*/
+  overflow-y: scroll; /*visible(默认值)、scroll、hidden、auto*/
+  scrollbar-arrow-color: #eee; /*立体滚动条亮边的颜色（设置滚动条的颜色）*/
+  scrollbar-base-color: #eee; /*滚动条的基本颜色*/
+  scrollbar-face-color: #eee; /*立体滚动条凸出部分的颜色*/
+  scrollbar-highlight-color: #eee; /*滚动条空白部分的颜色*/
+  scrollbar-shadow-color: #eee; /*立体滚动条阴影的颜色*/
+  height: 400px;
+  transition: 1s;
+}
