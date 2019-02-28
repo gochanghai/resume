@@ -93,7 +93,7 @@ Mybatis（Mybatis-plus），druid，angular5，Ant Design (ng-zorro)，AntV(G2/G
 - 常用项目管理工具： maven 熟练掌握
 - 数据库管理工具: navicate/ powerdesigner 熟练使用
 - linux远程控制工具: smartty 熟练使用
-- 操作系统： windows/centos/rehl 熟练使用
+- 操作系统： windows/centos/rhel 熟练使用
 
 
 # 致谢
