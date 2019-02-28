@@ -78,18 +78,19 @@ Mybatis（Mybatis-plus），druid，angular5，Ant Design (ng-zorro)，AntV(G2/G
 
 # 技能清单
 
-- 主技能：java 熟练掌握
+- 主技能：java node.js 熟练掌握
 - 次技能：golang 基础级
-- 常用后端框架：spring/springboot/mybatis/mybatis-plues/jfinal 熟练掌握
+- 常用后端框架：spring/springboot/hibernate/mybatis/mybatis-plues/jfinal 熟练掌握
 - 数据库：mysql/oracle/postgres 熟练掌握
 - nosql: redis/mongodb/hbase 熟练使用
 - 前端：angular/html5/css/js/vue 熟练掌握
-- app: ionic/android 熟练使用
 - 大数据相关：hadoop/hbase/hive/zookeeper/phoenix/sqoop 熟练使用
 - 常用集成开发工具： eclipse/intellij idea 熟练掌握
 - 常用版本控制工具：svn/git 熟练掌握
 - 容器技术: docker 熟练使用
 - 常用项目管理工具： maven 熟练掌握
+- 数据库管理工具: navicate/ powerdesigner 熟练使用
+- linux远程控制工具: smartty 熟练使用
 - 操作系统： windows/centos/rehl 熟练使用
 
 
