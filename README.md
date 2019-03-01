@@ -81,7 +81,7 @@ Mybatis（Mybatis-plus），druid，angular5，Ant Design (ng-zorro)，AntV(G2/G
 # 技能清单
 
 - 主技能：java node.js 熟练掌握
-- 次技能：golang 基础级
+- 目前学习技能：golang 基础级
 - 常用后端框架：spring/springboot/hibernate/mybatis/mybatis-plues/jfinal 熟练掌握
 - 数据库：mysql/oracle/postgres 熟练掌握
 - nosql: redis/mongodb/hbase 熟练使用
